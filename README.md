@@ -6,7 +6,8 @@
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/71c76c96-1650-4b20-a151-de6c9c682630/1f345823-5233-45f2-8901-fbc674670ffe/image.png)
+![Uploading 스크린샷 2025-01-15 오후 6.29.57.png…]()
+
 
 게임을 실행하면 ‘시작하기’를 눌러서 게임을 시작할 수 있습니다. 
 
