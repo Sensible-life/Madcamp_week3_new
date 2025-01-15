@@ -17,7 +17,7 @@
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/71c76c96-1650-4b20-a151-de6c9c682630/2ef5fc46-de18-4edb-a53f-1baf54033c97/image.png)
+<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/71c76c96-1650-4b20-a151-de6c9c682630/2ef5fc46-de18-4edb-a53f-1baf54033c97/image.png"">
 
 게임을 처음 플레이한다면 플레이어의 이름을 결정합니다. 만약, 따로 이름을 짓고 싶지 않다면 기본으로 정해져있는 ‘공진우’로 플레이하게 됩니다.
 
