@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/memoria.rpy", line 150: expected statement.
+    "ㅋㅋ 이걸 못하네"ㄴ
+                ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Wed Jan 15 13:49:28 2025
